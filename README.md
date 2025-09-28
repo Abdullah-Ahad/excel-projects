@@ -1,41 +1,68 @@
-# 📊 Excel Projects Portfolio
+# 📊 Excel Portfolio
 
-Welcome to my **Excel portfolio**, where I showcase projects that highlight my skills in data analysis, reporting, and dashboard design.  
+This repository showcases my **Excel projects and dashboards**, demonstrating skills in data cleaning, analysis, visualization, and business reporting.  
 
-This repository is organized into two main sections:  
-
----
-
-## 📂 [Learning Projects](./excel-projects/excel-projects/Learning%20Projects)
-Practice projects that demonstrate mastery of Excel functions in **real-world scenarios**.  
-- IF logic for flight status classification  
-- Lookup functions (VLOOKUP, XLOOKUP, Double VLOOKUP)  
-- Conditional aggregations (SUMIF, COUNTIF, AVERAGEIF, MAXIFS, MINIFS)  
-- Data cleaning (Flash Fill, Subtotals, Power Table)  
-- Pivot tables for hotel revenue & occupancy analysis  
-
-👉 [View Learning Projects](./excel-projects/excel-projects/Learning%20Projects)
+It is divided into two sections:  
+- **Learning Projects** → Practice projects that highlight Excel formulas and functions in real-world contexts.  
+- **Business Dashboards** → Professional dashboards designed for decision-making and reporting.  
 
 ---
 
-## 📂 [Business Dashboards](./excel-projects/excel-projects/Business%20Dashboards)
-Professional dashboards that combine multiple Excel features to deliver **actionable business insights**.  
-- **Superstore Sales Performance Dashboard** – Sales KPIs by region, shipping mode, product category, and customer segment  
-- **Call Center Performance Dashboard** – Call trends, revenue, customer ratings, and representative efficiency  
+## 📂 Learning Projects  
 
-👉 [View Business Dashboards](./excel-projects/excel-projects/Business%20Dashboards)
+1. **Customer Account Information Search – XLOOKUP**  
+   Retrieves customer details (account, city, contact) from a large dataset using XLOOKUP.  
+
+2. **Customer Age Group Classification – Approximate Match Lookup**  
+   Categorizes customers into age groups (e.g., 18–30, 30–45) using VLOOKUP with approximate match.  
+
+3. **Data Cleaning & Reporting Tools – Subtotals, Flash Fill, Power Table**  
+   Demonstrates text separation, subtotals, and automated reporting with Flash Fill and Power Table.  
+
+4. **Flight Departure Status Tracker – IF Formula**  
+   Classifies flights as "On Time" or "Late" by comparing departure vs. door close time using IF logic.  
+
+5. **Hotel Revenue & Occupancy Analysis – Pivot Tables & Charts**  
+   Analyzes hotel booking data with KPIs like occupancy rate, revenue by day, and booking source performance.  
+
+6. **Property Market Analysis – AVERAGEIF, MAXIFS, MINIFS**  
+   Performs advanced property analytics (average area, max/min price) across cities and sale status.  
+
+7. **Real Estate Property Insights – COUNTIF Analysis**  
+   Counts property distribution by type, sale status, and city using COUNT, COUNTA, and COUNTIF formulas.  
+
+8. **Real Estate Sales Report – SUMIF & SUMIFS**  
+   Summarizes property sales values by status and city using SUMIF and SUMIFS.  
+
+9. **Sales Incentive Calculator – Double VLOOKUP**  
+   Calculates sales incentives for employees across different targets and sales thresholds.  
+
+10. **Student Performance Grading System – VLOOKUP**  
+    Assigns grades and performance levels to students based on their marks using VLOOKUP.  
+
+---
+
+## 📂 Business Dashboards  
+
+1. **Superstore Sales Performance Dashboard**  
+   An interactive dashboard analyzing sales across regions, categories, shipping modes, and customer segments with KPIs and trend analysis.  
+
+2. **Call Center Performance Dashboard**  
+   Tracks call center operations including total calls, revenue, average rating, representative performance, and customer demographics.  
 
 ---
 
 ## 🛠️ Skills Demonstrated  
-- Data Cleaning & Transformation  
+
+- Data Cleaning & Validation  
 - Lookup & Reference Functions (VLOOKUP, XLOOKUP)  
-- Conditional Functions (IF, SUMIF, COUNTIF, AVERAGEIF)  
+- Conditional Aggregations (SUMIF, COUNTIF, AVERAGEIF)  
 - Pivot Tables & Charts  
-- Dashboard Design & KPI Reporting  
+- Dashboard Design for Business Insights  
 
 ---
 
 ## 📌 About This Portfolio  
-This portfolio reflects my ability to turn raw datasets into **meaningful insights** using Excel.  
-It demonstrates both my **technical skills** (through Learning Projects) and my ability to create **business-ready tools** (through Dashboards).  
+
+These projects replicate **real-world business scenarios** in sales, customer service, real estate, and hospitality.  
+They highlight my ability to use Excel for **data-driven decision-making, reporting, and business analytics**.  
