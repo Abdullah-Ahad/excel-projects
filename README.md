@@ -6,7 +6,7 @@ This repository is organized into two main sections:
 
 ---
 
-## 📂 [Learning Projects](./Learning%20Projects)  
+## 📂 [Learning Projects](./excel-projects/excel-projects/Learning%20Projects)
 Practice projects that demonstrate mastery of Excel functions in **real-world scenarios**.  
 - IF logic for flight status classification  
 - Lookup functions (VLOOKUP, XLOOKUP, Double VLOOKUP)  
@@ -14,16 +14,16 @@ Practice projects that demonstrate mastery of Excel functions in **real-world sc
 - Data cleaning (Flash Fill, Subtotals, Power Table)  
 - Pivot tables for hotel revenue & occupancy analysis  
 
-👉 [View Learning Projects](./Learning%20Projects)  
+👉 [View Learning Projects](./excel-projects/excel-projects/Learning%20Projects)
 
 ---
 
-## 📂 [Business Dashboards](./Business%20Dashboards)  
+## 📂 [Business Dashboards](./excel-projects/excel-projects/Business%20Dashboards)
 Professional dashboards that combine multiple Excel features to deliver **actionable business insights**.  
 - **Superstore Sales Performance Dashboard** – Sales KPIs by region, shipping mode, product category, and customer segment  
 - **Call Center Performance Dashboard** – Call trends, revenue, customer ratings, and representative efficiency  
 
-👉 [View Business Dashboards](./Business%20Dashboards)  
+👉 [View Business Dashboards](./excel-projects/excel-projects/Business%20Dashboards)
 
 ---
 
