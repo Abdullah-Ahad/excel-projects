@@ -16,7 +16,7 @@ Each dashboard is designed to provide **business insights, track KPIs, and suppo
 - [Download Excel File](./Call%20Center%20Performance%20Dashboard.xlsx)  
 
 *Screenshot:*  
-![Call Center Dashboard](call_center_dashboard.png)
+![Call Center Dashboard](Call_center_dashboard.png)
 
 ---
 
@@ -29,4 +29,4 @@ Each dashboard is designed to provide **business insights, track KPIs, and suppo
 - [Download Excel File](./Superstore%20Sales%20Performance%20Dashboard.xlsx)  
 
 *Screenshot:*  
-![Sales Dashboard](superstore_dashboard.png)
+![Sales Dashboard](Superstore_dashboard.png)
